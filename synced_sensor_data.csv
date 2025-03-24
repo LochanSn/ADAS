@@ -1,0 +1,4 @@
+camera_frame,radar_timestamp,object_id,distance,speed
+cam_001.jpg,1615290461.03,car_1,18,3
+cam_002.jpg,1615290462.05,pedestrian_1,8,1
+cam_003.jpg,1615290463.08,bike_1,25,6
